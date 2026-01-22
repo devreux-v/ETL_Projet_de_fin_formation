@@ -2,7 +2,7 @@
 
 Ce code représente l'ETL de mon projet de fin de ma formation à interface 3
 
-La présentation des données se trouve ici 
+La présentation des données se trouve ici, ainsi que les liens vers les données
 https://public.tableau.com/app/profile/valentine.devreux/viz/projet_17691180286230/Sources
 
 ## Attention !!!! 
