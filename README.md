@@ -2,8 +2,16 @@
 
 Ce code représente l'ETL de mon projet de fin de ma formation à interface 3.
 
-La présentation des données se trouve ici, ainsi que les liens vers les données.
-https://public.tableau.com/app/profile/valentine.devreux/viz/projet_17691180286230/Sources
+### Les représentations des données se trouve ici.
+  [Répartition des arrêt de bus sur le territoire](https://public.tableau.com/app/profile/valentine.devreux/viz/DashboardArretBus/repartitionarret)
+  [Analyse de la fréquence des transport TEC](https://public.tableau.com/app/profile/valentine.devreux/viz/DashboardFrquenceBus/Frequence)
+
+### Les données ici.
+  https://transportdata.be/fr/dataset/tec-netex/resource/a42f9975-3043-4e31-ad33-4fbafb897ff9
+
+  https://statbel.fgov.be/fr/themes/population/structure-de-la-population#figures
+
+  https://www.odwb.be/explore/dataset/201001/table/
 
 ## Attention !!!! 
 
